@@ -6,7 +6,7 @@
 
 🛠 I’m currently working ...
 - as research assistant @ [Prof. Shadi Rezapour's lab](https://www.shadirezapour.com/about) 
-- on a research project with [Prof. Hegler Tissot](http://hextrato.com/) and 
+- on a research project with [Prof. Hegler Tissot](http://hextrato.com/) 
 
 💞️ In the past I've worked at ...
 - Data Analyst @ Covid-19 NanoCovax Vaccines and Vinmec Healthcare System
