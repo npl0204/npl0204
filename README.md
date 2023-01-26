@@ -9,6 +9,7 @@
 - on a research project with [Prof. Hegler Tissot](http://hextrato.com/) 
 
 💞️ In the past I've worked at ...
+- Data Scientist @ Intermountain Health
 - Data Analyst @ Covid-19 NanoCovax Vaccines and Vinmec Healthcare System
 - Research Assistant @ Hanoi University of Pharmacy 
 - Mathematics Tutor @ Tutorful
