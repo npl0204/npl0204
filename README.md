@@ -5,6 +5,7 @@
 🌱 In my spare time I like to crochet.
 
 🛠 I’m currently working ...
+- as Data Scientist Co-op @ Oracle
 - as research assistant @ [Prof. Shadi Rezapour's lab](https://www.shadirezapour.com/about) 
 - on multiple research projects with [Prof. Hegler Tissot](http://hextrato.com/) 
 
